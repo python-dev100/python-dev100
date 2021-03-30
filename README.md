@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @python-dev100
-- 👀 I’m interested in Numpy
+- 👀 I’m interested in learning Numpy
 - 🌱 I’m currently learning PySide6, Pygame, Flask
 
 <!---
